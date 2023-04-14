@@ -68,7 +68,7 @@ Previously as we made our instances, we had installed nginx. Create an AMI, we d
 
 <img width="1199" alt="Step10 Click connect on ami " src="https://user-images.githubusercontent.com/126012715/232089386-85b80841-339e-4dce-8e18-03694b5ca930.png">
 
-- Click the connect and follow the steps as shown.
+- Click the connect and follow the steps as shown to enter it into git bash terminal.
 
 - `chmod 400 tech221.pem` 
 
