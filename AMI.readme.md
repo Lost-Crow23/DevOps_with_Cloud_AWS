@@ -4,6 +4,8 @@
 
 <img width="691" alt="AMI diagram" src="https://user-images.githubusercontent.com/126012715/232049937-ebaecaa0-1f4d-4401-8169-6860420ac2e8.png">
 
+The Architecture diagram shows the overall deployment architecture with the data flow, ec2 image builder and the ec2 console with AMI.
+
 <h4>Step 1</h4>
 
 Creating AMI within AWS:
@@ -104,7 +106,7 @@ Previously as we made our instances, we had installed nginx. Create an AMI, we d
 
 <h4>Final Iteration</h4>
 
-- Stop at the user data and input the corresponding commands to apply the Nginx.
+- Stop at the user data and input the corresponding bash script commands to apply the Nginx. 
 
 `#!/bin/bash`
 
@@ -119,6 +121,11 @@ Previously as we made our instances, we had installed nginx. Create an AMI, we d
 `sudo systemctl enable nginx`
 
 <img width="1232" alt="User data" src="https://user-images.githubusercontent.com/126012715/232113862-a7bf6bbd-207f-4df6-91ad-b41faa460a03.png">
+
+- We input the ssh key to our terminal "git/bash" `ssh -i "tech221.pem" ubuntu@ec2-34-255-182-176.eu-west-1.compute.amazonaws.com`. Making sure we 
+change our "root" to "ubuntu"
+
+<img width="586" alt="Change to ubuntu" src="https://user-images.githubusercontent.com/126012715/232123551-105fa0f3-723f-429a-868a-567c0fc38e43.png">
 
 - Now, use the IP address within the details section, for Nginx.
 
