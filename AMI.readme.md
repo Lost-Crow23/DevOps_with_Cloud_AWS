@@ -4,7 +4,7 @@
 
 <img width="691" alt="AMI diagram" src="https://user-images.githubusercontent.com/126012715/232049937-ebaecaa0-1f4d-4401-8169-6860420ac2e8.png">
 
-The Architecture diagram shows the overall deployment architecture with the data flow, ec2 image builder and the ec2 console with AMI.
+The Architecture diagram shows the overall deployment architecture with the data flow, ec2 image builder and the ec2 console with AMI. Essentially, a configured virtual machine to launch an instance.
 
 <h4>Step 1</h4>
 
