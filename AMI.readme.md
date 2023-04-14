@@ -4,7 +4,9 @@ Amazon Machine Image
 
 <img width="691" alt="AMI diagram" src="https://user-images.githubusercontent.com/126012715/232049937-ebaecaa0-1f4d-4401-8169-6860420ac2e8.png">
 
-Step 1 Creating AMI within AWS:
+Step 1 
+
+Creating AMI within AWS:
 
 Previously as we made our instances, we had installed nginx. Create an AMI, we do not have to install 
 it manually through a long process, and instead launch it with the AMI.
@@ -77,7 +79,7 @@ Nginx
 
 - Enter the IP address shown below onto your browser and this should show.
 
-<img width="852" alt="Nginx " src="https://user-images.githubusercontent.com/126012715/232101056-37fa12ec-0866-49a6-871d-9211ac1a9616.png"
 
+<img width="857" alt="AMI Nginx" src="https://user-images.githubusercontent.com/126012715/232103029-1282ff1a-5317-4b86-9a45-ddb9c597fc65.png">
 
 
