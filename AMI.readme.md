@@ -83,7 +83,9 @@ Previously as we made our instances, we had installed nginx. Create an AMI, we d
 
 <img width="857" alt="AMI Nginx" src="https://user-images.githubusercontent.com/126012715/232103029-1282ff1a-5317-4b86-9a45-ddb9c597fc65.png">
 
-<h1>Launching Nginx Via User-data</h1>
+<h1> Virtual Environment in linux - Launching Nginx Via User-data</h1>
+
+<h2>Provisioning an environment using bash script</h2>
 
 <h4>Step 1</h4>
 
@@ -122,8 +124,11 @@ Previously as we made our instances, we had installed nginx. Create an AMI, we d
 
 <img width="1232" alt="User data" src="https://user-images.githubusercontent.com/126012715/232113862-a7bf6bbd-207f-4df6-91ad-b41faa460a03.png">
 
-- We input the ssh key to our terminal "git/bash" `ssh -i "tech221.pem" ubuntu@ec2-34-255-182-176.eu-west-1.compute.amazonaws.com`. Making sure we 
-change our "root" to "ubuntu"
+- We input the ssh key to our terminal "git/bash" 
+
+`ssh -i "tech221.pem" ubuntu@ec2-34-255-182-176.eu-west-1.compute.amazonaws.com`
+
+- Making sure we change our "root" to "ubuntu"
 
 <img width="586" alt="Change to ubuntu" src="https://user-images.githubusercontent.com/126012715/232123551-105fa0f3-723f-429a-868a-567c0fc38e43.png">
 
