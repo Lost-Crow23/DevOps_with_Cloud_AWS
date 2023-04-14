@@ -3,6 +3,9 @@
 Amazon Web Services is on-demand cloud computing platform. It includes services to help build sophisticated applications
 with the increased reliability, scalability, flexibility. 
 
+<img width="853" alt="SSH Diagram" src="https://user-images.githubusercontent.com/126012715/232133767-95f818d6-e60f-45b4-8d21-e7aa2ddc2474.png">
+
+
 <h3>AWS</h3>
 
 - Deploy steps
