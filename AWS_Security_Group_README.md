@@ -36,15 +36,10 @@ And click save rules.
 
 Now you should have two inbounds one for HTTP and one you just created SSH security group.
 
-<img width="1361" alt="Step 5" src="https://user-images.githubusercontent.com/126012715/231766206-eba2700f-4b65-4dac-88d5-8c32683a19e0.png">
-
-
 <h3>Step 6</h3>
 
-Now to connect to the terminal and the cloud. 
-By clicking connect, it should pop up with the following page in step 7.
-
-![step 2.png](..%2F..%2F..%2FDesktop%2FAWS%20Security%20Group%2Fstep%202.png)
+- Now to connect to the terminal and the cloud. 
+- By clicking connect, it should pop up with the following page in step 7.
 
 <h3>Step 7</h3>
 
