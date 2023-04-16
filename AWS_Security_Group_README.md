@@ -33,7 +33,7 @@ IP address.
 
 And click save rules.
 
-![Select SSH.png](..%2F..%2F..%2FDesktop%2FAWS%20Security%20Group%2FSelect%20SSH.png)
+<img width="1361" alt="Step 5" src="https://user-images.githubusercontent.com/126012715/232333952-203bc792-588c-4104-a258-3d7e93f5d752.png">
 
 <h3>Step 5</h3>
 
