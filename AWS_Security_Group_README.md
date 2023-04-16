@@ -30,10 +30,7 @@ IP address.
 
 <img width="1372" alt="step 4" src="https://user-images.githubusercontent.com/126012715/231766149-bc8e22dc-c8e1-4d79-82a7-9f6f6625b093.png">
 
-
 And click save rules.
-
-<img width="1361" alt="Step 5" src="https://user-images.githubusercontent.com/126012715/232333952-203bc792-588c-4104-a258-3d7e93f5d752.png">
 
 <h3>Step 5</h3>
 
