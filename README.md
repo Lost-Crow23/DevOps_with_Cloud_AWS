@@ -42,3 +42,22 @@ Collaborating is key for the team and processing team so they can help, learn an
 Streamlined process is achieved through collaboration, as it helps the understanding and preparing with 
 the changes in the infrastructure, which avoids delay. 
 
+<h2>Cloud Computing?</h2>
+
+![image](https://user-images.githubusercontent.com/126012715/232338857-d3d7a56d-fd19-488c-9e1b-d5508357ce06.png)
+
+Cloud computing is a virtual cloud that uses remote servers on the internet to store, process and manage data instead of relying on local computers or hosts. The delivery of services such as storage, databases and softwares are stored upon the internet. On demand access enables users to pay for their sole use, allowing them to be as cost efficient as possible so they don't need to be maintaining their own infrastructure. It is scalable, flexible and cost effective.
+
+<h3>What are the benefits?</h3>
+
+- Cost effective - upon subscription bases which can eliminate the need to buy and maintain such expensive software and hardware.
+- Secruity - users' data is significantly protected with the use of robust protocols, like encryption, firewalls and access controls.
+- Scalability - Users can scale their resources high and low depending on their need. So, adding more resources due to peak demands, or scaling back due to slow periods can be faster implemented.
+- Accessibility - Can be essentially accessed from anywhere from the world with an web connection, making it easier for collaboration remotely.
+- Recovery - If locally the data is destroyed or effected in any way, the cloud keeps the data saved and with enabled security, it keeps the data safe and accessible so that the data is never lost.
+ 
+<h3>How does it fit into DevOps?</h3>
+
+- 
+ 
+<h3>How does It benefit the business?</h3>
