@@ -42,7 +42,7 @@ Collaborating is key for the team and processing team so they can help, learn an
 Streamlined process is achieved through collaboration, as it helps the understanding and preparing with 
 the changes in the infrastructure, which avoids delay. 
 
-<h2>Cloud Computing?</h2>
+<h2>Cloud Computing</h2>
 
 ![image](https://user-images.githubusercontent.com/126012715/232338857-d3d7a56d-fd19-488c-9e1b-d5508357ce06.png)
 
@@ -58,6 +58,10 @@ Cloud computing is a virtual cloud that uses remote servers on the internet to s
  
 <h3>How does it fit into DevOps?</h3>
 
-- 
+- Enabling collaboration without the downtime of back and forth files between the team.
+- With version control, allows for simultaneous development to avoid complex dillemas between the software development.
+- Global collaboration for remote projects built and tested on various environments.
  
 <h3>How does It benefit the business?</h3>
+
+In terms of business, automation of tasks such as advertising, marketing, procurement and payrol rely on the cloud. The main drive for business growth are, productiveness (accurate and up-to-date business information), secure the documentation and the business data (encryption with your private files), cost-effectiveness and the automation of more tasks (reducing workloads and increasing productivity).
