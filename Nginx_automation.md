@@ -31,7 +31,7 @@ Creating an enabling a shell script within git bash terminal
 - Permission can be changed using `Sudo chmod += provision.sh` to make file executable.
 
 - Run and Check the status of the script `sudo ./provision.sh` and then `sudo systemctl status nginx`
-- 
+
 <h3>Final Iteration</h3>
 
 - Copy the IP address as shown under details in the instance and paste it as a new URL. 
